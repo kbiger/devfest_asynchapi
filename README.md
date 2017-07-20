@@ -23,7 +23,7 @@
    $ npm start
    ```
 
-1. Open <http://localhost:8000>/asynchapi.html to view presentation
+1. Open <http://localhost:8000/asynchapi.html> to view presentation
 
    You can change the port by using `npm start -- --port=8001`.
 
