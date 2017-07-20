@@ -29,8 +29,8 @@
 
 
 
-## License
+# License
 
-MIT licensed
-
+Reveal.js is MIT licensed
 Copyright (C) 2017 Hakim El Hattab, http://hakim.se
+https://github.com/hakimel/reveal.js/
